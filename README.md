@@ -10,9 +10,5 @@ I'm Stephen Goncalves, I'm a self-taught web developer 👨‍💻 who is passio
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, C#
 
-
-> St. Gonzales
-
-
 ---
 ⭐️ From [GonzalesDev](https://github.com/stgonzales)
