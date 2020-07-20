@@ -6,8 +6,7 @@ I'm Stephen Goncalves, I'm a self-taught web developer 👨‍💻 who is passio
 
 - 🔭 I’m currently working on Web Apps for my portfolio
 - 🌱 I’m currently learning JavaScript and C#.
-- 💬 Ask me about: tech, memes, anime
-- 😄 Pronouns: he/him
+- 💬 Ask me about: tech, diy, bmx, space
 -  ⚡ Languages: JavaScript, C#
 
 ---
