@@ -3,7 +3,7 @@
 [<img align="left" alt="Stephen Goncalves | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Stephen Goncalves | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Stephen Goncalves | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
+<br />
 #### I'm a self-taught web developer 👨‍💻 who is passionate about programming. I'am also a father and husband🤟. 
 
 - 🔭 I’m currently working on Web Apps for my portfolio
