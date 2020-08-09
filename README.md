@@ -46,4 +46,4 @@
 [website]: https://iamgonzales.dev
 [twitter]: https://twitter.com/stepwillians
 [linkedin]: https://linkedin.com/in/stephenwillians
-[gmail]: stiefo.o@gmai.com
+[gmail]: stephengoncalves.dev@gmail.com
