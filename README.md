@@ -1,7 +1,7 @@
 # Hey👋🏾, I am Stephen!
 <br/>
 
-[<img align="center" alt="Stephen Goncalves | Twitter" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/twitter.svg" />][twitter] [<img align="center" alt="Stephen Goncalves | LinkedIn" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/linkedin-icon-2.svg" />][linkedin] [<img align="center" alt="Stephen Goncalves | Gmail" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/gmail-icon.svg" />][gmail]
+[<img align="center" alt="Stephen Goncalves | Twitter" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/twitter-square-brands.svg" />][twitter] [<img align="center" alt="Stephen Goncalves | LinkedIn" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/linkedin-brands.svg" />][linkedin] [<img align="center" alt="Stephen Goncalves | Gmail" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/envelope-square-solid.svg" />][gmail]
 <br />
 #### I am a Web Developer student 👨🏾‍💻, who is passionate about programming. I am also a father and husband 👨‍👩‍👧‍👧
 
