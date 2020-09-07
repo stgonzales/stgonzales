@@ -22,7 +22,7 @@
 <img alt="JavaScript" width="92px" src="/assets/javascript.svg"> <img alt="TypeScript" width="92px" src="/assets/typescript.svg"> <img alt="NodeJS" width="92px" src="/assets/nodejs.svg">
 <img alt="HTML5" width="92px" src="/assets/html5.svg"> <img alt="CSS3" width="92px" src="/assets/css-5.svg"> <img alt="VueJS" width="92px" src="/assets/vue.svg">
 <img alt="React" width="92px" src="/assets/react.svg"> <img alt="PostgreSQL" width="92px" src="/assets/postgresql.svg"> <img alt="Docker" width="92px" src="/assets/docker.svg"> 
-<img alt="Visual Studio Code" width="92px" src="/assets/visual-studio-code.svg"> <img alt="Github" width="92px" src="/assets/github-1.svg"> <img alt="Git" width="92px" src=./assets/git.svg">
+<img alt="Visual Studio Code" width="92px" src="/assets/visual-studio-code.svg"> <img alt="Github" width="92px" src="/assets/github-1.svg"> <img alt="Git" width="92px" src="/assets/git.svg">
 <img alt="MongoDB" width="92px" src="/assets/mongodb.svg">
 <br/>
 
