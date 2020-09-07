@@ -1,5 +1,4 @@
 # Hey👋🏾, I am Stephen!
-<br/>
 
 [<img align="center" alt="Stephen Goncalves | Twitter" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/twitter-square-brands.svg" />][twitter] [<img align="center" alt="Stephen Goncalves | LinkedIn" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/linkedin-brands.svg" />][linkedin] [<img align="center" alt="Stephen Goncalves | Gmail" width="32px" src="https://raw.githubusercontent.com/stgonzales/stgonzales/master/assets/envelope-square-solid.svg" />][gmail]
 <br />
@@ -11,8 +10,6 @@
 - 🗣️ Languages that I speak: 🇧🇷 🇬🇧
 - 🙋🏾‍♂️ I am available to be part of a development team!💫
 <br/>
-
-
 
 ### My Tech Stack ⤵️
 | | | |
