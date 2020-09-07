@@ -4,10 +4,9 @@
 
 [<img align="center" alt="Stephen Goncalves | Twitter" width="24px" src="https://user-images.githubusercontent.com/12421471/92400577-09938180-f124-11ea-9e70-ba8f15843fed.png" />][twitter] [<img align="center" alt="Stephen Goncalves | LinkedIn" width="24px" src="https://user-images.githubusercontent.com/12421471/92400565-06989100-f124-11ea-8935-ca1c3d5ea3fd.png" />][linkedin] [<img align="center" alt="Stephen Goncalves | Gmail" width="24px" src="https://user-images.githubusercontent.com/12421471/92400554-04cecd80-f124-11ea-87d1-5a85e385ef30.png" />][gmail]
 
----
 > Live as if you were to die tomorrow. Learn as if you were to live forever.
 > ― **Mahatma Gandhi**
----
+
 #### I am a Web Developer student 👨🏾‍💻, who is passionate about programming. I am also a father and husband 👨‍👩‍👧‍👧
 
 - 🏗️ I’m currently working on Web Apps for my portfolio and studying at [Rocketseat](https://rocketseat.com.br/).
