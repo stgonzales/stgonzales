@@ -9,7 +9,7 @@
 #### I'm a Web Developer 👨🏾‍💻, who is passionate about programming. I'm also a father and husband 👨‍👩‍👧‍👧
 
 - 🏗️ I’m currently working on Web Apps for my portfolio
-- 📚 I’m currently learning JavaScript and TypeScript.
+- 📚 I’m focusing on React/NextJs and TypeScript.
 - 💬 I like to talk about 💻tech, 🔭space, 🎮games, 🛠️diY
 
 [twitter]: https://twitter.com/stepwillians
