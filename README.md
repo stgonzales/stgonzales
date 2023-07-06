@@ -1,4 +1,4 @@
-# Hey👋🏾, I am Stephen!
+## Hey👋🏾, I'm Stephen!
 
 > Live as if you were to die tomorrow. Learn as if you were to live forever.
 > ― **Mahatma Gandhi**
@@ -9,6 +9,6 @@
 - 📚 I’m focusing on React/NextJs and TypeScript with an eye on Go and Solidjs.
 - 💬 I like to talk about 💻tech, 🔭space, 🎮games, 🛠️diY
 
-[twitter]: https://twitter.com/stepwillians
-[linkedin]: https://linkedin.com/in/stephenwillians
+[twitter]: https://twitter.com/stepgoncalves
+[linkedin]: https://linkedin.com/in/stephgoncalves
 [gmail]: stephengoncalves.dev@gmail.com
