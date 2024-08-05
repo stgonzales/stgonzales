@@ -8,6 +8,5 @@
 - 🏗️ I’m currently working as Software Engineer
 - 📚 Focusing on React/NextJs with TypeScript and Golang.
 
-[twitter](https://twitter.com/stepgoncalves)<br/>
 [linkedin](https://linkedin.com/in/stephgoncalves)<br/>
 [gmail](stephengoncalves.dev@gmail.com)<br/>
