@@ -3,11 +3,10 @@
 > Live as if you were to die tomorrow. Learn as if you were to live forever.
 > ― **Mahatma Gandhi**
 
-#### I'm a Front-end Developer 👨🏾‍💻, who is passionate about programming. I'm also a father and husband 👨‍👩‍👧‍👧
+#### I'm a Software Engineer, who is passionate about programming. I'm also a husband and father of 3👨‍👩‍👧‍👧
 
-- 🏗️ I’m currently working on Web Apps for my portfolio
-- 📚 I’m focusing on React/NextJs and TypeScript with an eye on Go and Solidjs.
-- 💬 I like to talk about 💻tech, 🔭space, 🎮games, 🛠️diY
+- 🏗️ I’m currently working as Software Engineer
+- 📚 Focusing on React/NextJs with TypeScript and Golang.
 
 [twitter]: https://twitter.com/stepgoncalves
 [linkedin]: https://linkedin.com/in/stephgoncalves
